@@ -6,7 +6,7 @@
 ![Screenshot 2024-04-16 183441](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/718bf404-9159-43dd-9c85-33e42c1a1a41)
 ![Screenshot 2024-04-16 183456](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/68e0a972-0cbd-4b57-ad52-6bf0d8a4644e)
 
-
+(Setelah Perubahan)
 ![Screenshot 2024-04-17 014751](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/b1d6356c-1908-4dd5-a21d-bde301ca9757)
 ![Screenshot 2024-04-17 014816](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/0a280917-4e02-4488-9794-b62944cbd9e4)
 ![Screenshot 2024-04-17 014838](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/03e64822-b448-4951-ad5b-e17f5fc93599)
