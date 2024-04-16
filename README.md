@@ -16,7 +16,7 @@
 ![Screenshot 2024-04-17 014933](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/8d0683ce-54f6-46d6-beec-7aa2b31bee81)
 ![Screenshot 2024-04-17 014942](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/2ccbf7b2-29b1-4ae2-bf32-a644701bbf3b)
 
-
+(Erd)
 ![Screenshot 2024-04-17 011350](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/af5c45ef-6e3d-4a03-aeac-68a9ab0f9134)
 
 
