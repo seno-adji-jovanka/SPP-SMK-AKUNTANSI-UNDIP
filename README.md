@@ -20,6 +20,16 @@
 (ERD)
 ![Screenshot 2024-04-17 011350](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/af5c45ef-6e3d-4a03-aeac-68a9ab0f9134)
 
+# pembayaran-spp laravel 8
+Untuk menjalankan project :
+1. composer update
+2. php artisan key:generate
+3. php artisan migrate --seed
+4. php artisan serve
+
+email dan password bisa dilihat di direktori databaseseeders
+#
+
 
 
 
