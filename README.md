@@ -1,3 +1,26 @@
+Nama:Seno Adji Jovanka
+NIM:120301222140316
+Kelas:Pengkodean F
+Nama sistem:SPP SMK AKUNTANSI UNDIP
+
+# pembayaran-spp laravel 8
+Untuk menjalankan project :
+1. composer update
+2. php artisan key:generate
+3. php artisan migrate --seed
+4. php artisan serve
+
+email dan password bisa dilihat di direktori databaseseeders
+#
+
+
+
+
+
+
+
+
+
 (Sebelum Perubahan)
 ![Screenshot 2024-04-16 183309](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/7242e9af-471d-4b7c-8f11-1b8f1faf42c7)
 ![Screenshot 2024-04-16 183332](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/ce82e2db-2480-40a7-a31d-6538e9a481d0)
@@ -7,7 +30,7 @@
 ![Screenshot 2024-04-16 183456](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/68e0a972-0cbd-4b57-ad52-6bf0d8a4644e)
 
 (Setelah Perubahan)
-![Screenshot 2024-04-17 014751](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/b1d6356c-1908-4dd5-a21d-bde301ca9757)
+
 ![Screenshot 2024-04-17 014816](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/0a280917-4e02-4488-9794-b62944cbd9e4)
 ![Screenshot 2024-04-17 014838](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/03e64822-b448-4951-ad5b-e17f5fc93599)
 ![Screenshot 2024-04-17 014850](https://github.com/seno-adji-jovanka/SPP-SMK-AKUNTANSI-UNDIP/assets/167238990/304c8893-31b1-4026-857a-1c5f00bc4847)
