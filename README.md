@@ -4,7 +4,7 @@ NIM:120301222140316
 
 Kelas:Pengkodean F
 
-Nama sistem:SPP SMK AKUNTANSI UNDIP
+Nama sistem:SPP SMK UNDIP
 
 # pembayaran-spp laravel 8
 Untuk menjalankan project :
